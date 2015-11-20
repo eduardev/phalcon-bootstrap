@@ -1,0 +1,41 @@
+{
+  "name": "phalcon-bootstrap",
+  "version": "0.0.1",
+  "description": "Simple phalcon application with composer, bower, gulp and already included twbs/bootstrap + AwesomeFonts + jQuery",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^3.0.1",
+    "gulp-jshint": "^2.0.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5",
+    "jshint": "^2.8.0",
+    "main-bower-files": "^2.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eduardev/phalcon-bootstrap.git"
+  },
+  "keywords": [
+    "phalcon",
+    "bootstrap"
+  ],
+  "author": "Eduardo Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardev/phalcon-bootstrap/issues"
+  },
+  "homepage": "https://github.com/eduardev/phalcon-bootstrap",
+  "devDependencies": {
+    "jshint-stylish": "^2.1.0"
+  }
+}

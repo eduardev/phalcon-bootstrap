@@ -1,0 +1,27 @@
+{
+  "name": "phalcon-bootstrap",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  },
+  "description": "Simple phalcon application with composer, bower, gulp and already included twbs/bootstrap + AwesomeFonts + jQuery",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "phalcon",
+    "bootstrap"
+  ],
+  "authors": [
+    "Eduardo Pereira"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}

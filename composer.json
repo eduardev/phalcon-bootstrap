@@ -1,0 +1,15 @@
+{
+    "name": "eduardev/phalcon-bootstrap",
+    "description": "Simple phalcon application with composer, bower, gulp and already included twbs/bootstrap + AwesomeFonts + jQuery",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Pereira",
+            "email": "email@edu.ardo.pt"
+        }
+    ],
+    "require": {
+		"sneakybobito/phalcon-stubs": "2.0.7"
+	}
+}
